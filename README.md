@@ -1,2 +1,2 @@
-# jwtdecoder
-A simple tool to decode JSON Web Tokens
+# URL Encoder
+A simple tool to encode URLs online
